@@ -26,4 +26,4 @@ Donec ultricies sed neque sed rhoncus. Maecenas sodales facilisis tristique. Don
 2. Precision
 3. Performance
 
-This is what Ruby code would look like `pust 'Hello World'`
+This is what Ruby code would look like `puts 'Hello World'`
